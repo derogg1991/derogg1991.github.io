@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Any &amp; Nothing</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-09-24T09:56:28.032Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Peter Pan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://example.com/2021/09/23/Hello-World/"/>
+    <id>http://example.com/2021/09/23/Hello-World/</id>
+    <published>2021-09-23T02:59:50.000Z</published>
+    <updated>2021-09-24T09:56:28.032Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HALO"><a href="#HALO" class="headerlink" title="HALO"></a>HALO</h1><p>本站记录我作为一个运维工程师的成长历程,主要以技术博客为主,可能也会加入一些日常或者分享,也会有科学上网的内容.后续可能会打通微信公众号.这是个新开始,一切都未定,一切都有可能,敬请期待.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;HALO&quot;&gt;&lt;a href=&quot;#HALO&quot; class=&quot;headerlink&quot; title=&quot;HALO&quot;&gt;&lt;/a&gt;HALO&lt;/h1&gt;&lt;p&gt;本站记录我作为一个运维工程师的成长历程,主要以技术博客为主,可能也会加入一些日常或者分享,也会有科学上网的内容.后续可能会打</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
